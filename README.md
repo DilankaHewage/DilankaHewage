@@ -11,7 +11,7 @@ Electrical & Information Engineering Graduate | University of Ruhuna
 - 🎓 Electrical & Information Engineering graduate from the University of Ruhuna
 - 📡 Interested in Telecommunications, RF, Electronics and Intelligent Systems
 - 🤖 Experience in Machine Learning, Computer Vision and Embedded Systems
-- 🔬 Final Year Project: Hybrid VLC–RF Indoor Positioning System
+- 🔬 Final Year Project: Hybrid VLC–RF Indoor Positioning System with Machine Learning Based Handover
 - 💼 Currently looking for engineering opportunities
 
 ---
@@ -31,6 +31,10 @@ Electrical & Information Engineering Graduate | University of Ruhuna
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Maple](https://img.shields.io/badge/Maple-D71920?style=for-the-badge&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Ladder Programming](https://img.shields.io/badge/Ladder%20Programming-555555?style=for-the-badge)
 
 ### Tools
 
@@ -43,10 +47,10 @@ Electrical & Information Engineering Graduate | University of Ruhuna
 
 ## 🚀 Featured Projects
 
-### 📍 Hybrid VLC–RF Indoor Positioning System
+### 📍 Hybrid VLC–RF Indoor Positioning System with Machine Learning Based handover
 Developed a hybrid indoor positioning system combining Visible Light Communication and RF positioning with machine-learning-based handover and power optimization.
 
-### 🚗 Fully Automated Car Parking System
+### 🚗 Fully Automated Car Parking System - Verilog
 Designed and implemented an FPGA-based automated parking system using Verilog with real-time slot counting and gate control.
 
 ### 🧠 Human Activity Recognition
