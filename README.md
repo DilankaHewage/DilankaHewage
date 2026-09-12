@@ -13,7 +13,7 @@ Electrical & Information Engineering Graduate | Faculty of Engineering | Univers
 ## 👨‍💻 About Me
 
 - 🎓 Electrical & Information Engineering graduate from the University of Ruhuna
-- 📡 Interested in Telecommunications, RF, Electronics and Intelligent Systems
+- 📡 Interested in Electronics, Telecommunications, RF and Intelligent Systems
 - 🤖 Experience in Machine Learning, Computer Vision and Embedded Systems
 - 🔬 Final Year Project: Hybrid VLC–RF Indoor Positioning System with Machine Learning Based Handover
 - 💼 Currently looking for engineering opportunities
