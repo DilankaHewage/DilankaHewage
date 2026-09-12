@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dilanka Hewage</h1>
 
 <h3 align="center">
-Electrical & Information Engineering Graduate | University of Ruhuna
+Electrical & Information Engineering Graduate | Faculty of Engineering | University of Ruhuna
+
 </h3>
 
----
+<h3 align="center">
+  Passionate Knowledge Hunter
+</h3>
+
 
 ## 👨‍💻 About Me
 
@@ -53,11 +57,19 @@ Developed a hybrid indoor positioning system combining Visible Light Communicati
 ### 🚗 Fully Automated Car Parking System - Verilog
 Designed and implemented an FPGA-based automated parking system using Verilog with real-time slot counting and gate control.
 
+### ☀️ Intelligent MPPT Solar Battery Charger withWeather API 
+MPPT-based solar battery charger that adjusts performance using weather forecast data. Implemented with ESP32, sensors, boost converter, MOSFETS and OLED display
+
+### 🫁 Deep Learning Based Classification of Lung and Colon Cancer
+Investigated lung and colon histopathological image classification using convolutional neural networks trainedentirely from scratch.
+
 ### 🧠 Human Activity Recognition
 Developed an LSTM-based human activity recognition system using multi-sensor data.
 
 ### 🏠 Architectural Floor Plan Digitization
 Computer vision system using YOLO for automated recognition and digitization of architectural floor plans.
+
+
 
 ---
 
