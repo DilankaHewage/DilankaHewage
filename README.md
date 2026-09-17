@@ -9,6 +9,7 @@ Electrical & Information Engineering Graduate | Faculty of Engineering | Univers
   Passionate Knowledge Hunter
 </h3>
 
+<img src="https://komarev.com/ghpvc/?username=DilankaHewage&label=&style=flat&color=lightgrey" height="16"/>
 
 ## 👨‍💻 About Me
 
